@@ -25,4 +25,6 @@ Analyze sales data to identify trends, top products, and revenue drivers.
 ## 💡 Business Recommendations
 - Increase marketing in low-performing regions
 - Focus on high-profit products
+## 📸 Customer Behaviour Dashboard
 
+![Dashboard](images/dashboard.png)
