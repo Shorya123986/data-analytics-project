@@ -26,4 +26,6 @@ Analyze sales data to identify trends, top products, and revenue drivers.
 - Increase marketing in low-performing regions
 - Focus on high-profit products
 
-![Dashboard](images/dashboard.png)
+## 📸 Dashboard Preview
+
+![Dashboard](images/Dashboard.png)
