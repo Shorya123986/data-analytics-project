@@ -1,2 +1,28 @@
-# data-analytics-project
-Customer Shopping Behavior Analysis using Python, SQL, and Power BI on 3,900 transactions. Explores demographics, categories, discounts, and subscriptions to identify high‑value customers, top products, and trends via cleaning, SQL queries, and an interactive Power BI dashboard.
+# 📊 Project Title: Amazon Sales Analysis
+
+## 📌 Objective
+Analyze sales data to identify trends, top products, and revenue drivers.
+
+## 📂 Dataset
+- Source: Kaggle / Company Data
+- Columns: Order ID, Product, Region, Sales, Profit
+
+## 🔧 Tools Used
+- Python (Pandas, Matplotlib)
+- SQL
+- Power BI
+
+## 🧹 Data Cleaning
+- Removed null values
+- Fixed data types
+- Handled duplicates
+
+## 📈 Key Insights
+- Product X generated highest revenue
+- Region Y had lowest sales
+- Sales peaked during festival months
+
+## 💡 Business Recommendations
+- Increase marketing in low-performing regions
+- Focus on high-profit products
+
