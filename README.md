@@ -28,4 +28,4 @@ Analyze sales data to identify trends, top products, and revenue drivers.
 
 ## 📸 Dashboard Preview
 
-![Dashboard](images/Dashboard.png)
+![Dashboard](image/Dashboard.png)
