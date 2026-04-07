@@ -1,4 +1,4 @@
-# 📊 Project Title: Amazon Sales Analysis
+# 📊 Project Title: Customer Behaviour Analysis
 
 ## 📌 Objective
 Analyze sales data to identify trends, top products, and revenue drivers.
