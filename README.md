@@ -8,7 +8,7 @@ Analyze sales data to identify trends, top products, and revenue drivers.
 - Columns: Order ID, Product, Region, Sales, Profit
 
 ## 🔧 Tools Used
-- Python (Pandas, Matplotlib)
+- Python (Pandas)
 - SQL
 - Power BI
 
