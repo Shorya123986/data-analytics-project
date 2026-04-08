@@ -79,7 +79,7 @@ This project demonstrates how data-driven decision-making can:
 
 ## 📸 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](image/Dashboard.png)
 
 ---
 
