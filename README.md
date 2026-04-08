@@ -29,7 +29,7 @@ Analyze sales data to identify trends, top products, and revenue drivers.
 - Convert non-subscribers using discounts and loyalty programs  
 - Focus marketing on high-performing categories like Clothing
 
-  ## 🚀 Project Impact
+## 🚀 Project Impact
 This project demonstrates how data-driven insights can improve customer targeting and increase revenue.
 
 ## 📸 Dashboard Preview
