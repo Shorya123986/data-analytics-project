@@ -16,11 +16,12 @@ Analyze sales data to identify trends, top products, and revenue drivers.
 - Removed null values
 - Fixed data types
 - Handled duplicates
-
+- 
 ## 📈 Key Insights
-- Product X generated highest revenue
-- Region Y had lowest sales
-- Sales peaked during festival months
+- Young Adults generated the highest revenue among all age groups  
+- Adults showed the lowest sales count despite being a major segment  
+- 73% of customers are non-subscribers, indicating a large untapped market  
+- Clothing category contributed the highest sales compared to other categories  
 
 ## 💡 Business Recommendations
 - Increase marketing in low-performing regions
