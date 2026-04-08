@@ -1,37 +1,86 @@
-# 📊 Project Title: Customer Behaviour Analysis
+# 📊 Customer Behaviour Analysis
 
-## 📌 Objective
-Analyze sales data to identify trends, top products, and revenue drivers.
+## 🚀 Project Overview
+
+This project analyzes customer purchasing behavior to uncover key trends, identify high-value segments, and provide actionable insights that can help businesses improve revenue and customer engagement.
+
+---
+
+## ❓ Problem Statement
+
+Businesses often struggle to identify:
+
+* Which customer segments generate the most revenue
+* Which segments require engagement improvement
+
+This project addresses these challenges by analyzing customer data and delivering data-driven insights.
+
+---
+
+## 🎯 Objectives
+
+* Identify high-value customer segments
+* Detect low-performing groups
+* Analyze purchasing trends
+* Generate actionable business recommendations
+
+---
 
 ## 📂 Dataset
-- Source: Kaggle / Company Data
-- Columns: Order ID, Product, Region, Sales, Profit
 
-## 🔧 Tools Used
-- Python (Pandas)
-- SQL
-- Power BI
+* **Source:** Kaggle / Company Data
+* **Key Features:** Order ID, Product, Region, Sales, Profit
 
-## 🧹 Data Cleaning
-- Removed null values
-- Fixed data types
-- Handled duplicates
-  
-## 📈 Key Insights
-- Young Adults generated the highest revenue among all age groups  
-- Adults showed the lowest sales count despite being a major segment  
-- 73% of customers are non-subscribers, indicating a large untapped market  
-- Clothing category contributed the highest sales compared to other categories  
+---
+
+## 🛠 Tools & Technologies
+
+* **Python (Pandas)** – Data manipulation
+* **SQL** – Data querying
+* **Power BI** – Dashboard & visualization
+
+---
+
+## 🧹 Data Cleaning & Preparation
+
+* Removed missing values
+* Handled duplicate records
+* Corrected data types for accurate analysis
+
+---
+
+## 📊 Key Insights
+
+* **Young Adults** generate the highest revenue, indicating strong purchasing power
+* **Adults** show the lowest sales count, suggesting lower engagement
+* **73% of customers are non-subscribers**, revealing a major conversion opportunity
+* **Clothing category dominates sales**, making it a key revenue driver
+
+---
 
 ## 💼 Business Recommendations
-- Target young adults with personalized offers to maximize revenue  
-- Create strategies to increase engagement among adult customers  
-- Convert non-subscribers using discounts and loyalty programs  
-- Focus marketing on high-performing categories like Clothing
+
+* 🎯 Focus marketing campaigns on **high-value young customers**
+* 📉 Improve engagement strategies for **low-performing adult segment**
+* 🔄 Convert **non-subscribers into loyal customers** using offers and loyalty programs
+* 🛍 Prioritize **Clothing category** for promotions and inventory planning
+
+---
 
 ## 🚀 Project Impact
-This project demonstrates how data-driven insights can improve customer targeting and increase revenue.
+
+This project demonstrates how data-driven decision-making can:
+
+* Improve customer targeting
+* Increase revenue opportunities
+* Enhance overall business strategy
+
+---
 
 ## 📸 Dashboard Preview
 
-![Dashboard](image/Dashboard.png)
+![Dashboard](images/dashboard.png)
+
+---
+
+
